@@ -1,0 +1,33 @@
+.language-js {
+  background: #000;
+  color: rgb(2, 147, 167);
+}
+
+.language-bash {
+  background: #000;
+  color: #fff;
+}
+
+.language-bash > .function {
+  color: rgb(239, 243, 11);
+}
+
+.punctuation {
+  color: #fff;
+}
+
+.keyword {
+  color: rgb(238, 167, 61);
+}
+
+.operator {
+  color: #fff;
+}
+
+.string {
+  color: rgb(206, 115, 88);
+}
+
+.function {
+  color: rgb(4, 117, 13);
+}
